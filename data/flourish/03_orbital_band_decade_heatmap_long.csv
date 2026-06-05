@@ -1,0 +1,65 @@
+﻿altitude_band,decade,objects
+VLEO (<400 km),1950s,0
+LEO baja (400-600 km),1950s,1
+LEO media (600-1200 km),1950s,0
+LEO alta (1200-2000 km),1950s,5
+MEO (2000-20000 km),1950s,2
+MEO alta / GNSS (20000-30000 km),1950s,0
+GEO aprox. (30000-40000 km),1950s,0
+Órbita alta / HEO (>40000 km),1950s,0
+VLEO (<400 km),1960s,0
+LEO baja (400-600 km),1960s,24
+LEO media (600-1200 km),1960s,633
+LEO alta (1200-2000 km),1960s,390
+MEO (2000-20000 km),1960s,269
+MEO alta / GNSS (20000-30000 km),1960s,1
+GEO aprox. (30000-40000 km),1960s,110
+Órbita alta / HEO (>40000 km),1960s,22
+VLEO (<400 km),1970s,4
+LEO baja (400-600 km),1970s,29
+LEO media (600-1200 km),1970s,1325
+LEO alta (1200-2000 km),1970s,1017
+MEO (2000-20000 km),1970s,109
+MEO alta / GNSS (20000-30000 km),1970s,96
+GEO aprox. (30000-40000 km),1970s,163
+Órbita alta / HEO (>40000 km),1970s,11
+VLEO (<400 km),1980s,5
+LEO baja (400-600 km),1980s,56
+LEO media (600-1200 km),1980s,1359
+LEO alta (1200-2000 km),1980s,365
+MEO (2000-20000 km),1980s,532
+MEO alta / GNSS (20000-30000 km),1980s,154
+GEO aprox. (30000-40000 km),1980s,285
+Órbita alta / HEO (>40000 km),1980s,5
+VLEO (<400 km),1990s,25
+LEO baja (400-600 km),1990s,220
+LEO media (600-1200 km),1990s,4074
+LEO alta (1200-2000 km),1990s,413
+MEO (2000-20000 km),1990s,365
+MEO alta / GNSS (20000-30000 km),1990s,65
+GEO aprox. (30000-40000 km),1990s,354
+Órbita alta / HEO (>40000 km),1990s,7
+VLEO (<400 km),2000s,9
+LEO baja (400-600 km),2000s,140
+LEO media (600-1200 km),2000s,763
+LEO alta (1200-2000 km),2000s,64
+MEO (2000-20000 km),2000s,523
+MEO alta / GNSS (20000-30000 km),2000s,109
+GEO aprox. (30000-40000 km),2000s,324
+Órbita alta / HEO (>40000 km),2000s,5
+VLEO (<400 km),2010s,43
+LEO baja (400-600 km),2010s,401
+LEO media (600-1200 km),2010s,576
+LEO alta (1200-2000 km),2010s,270
+MEO (2000-20000 km),2010s,575
+MEO alta / GNSS (20000-30000 km),2010s,517
+GEO aprox. (30000-40000 km),2010s,445
+Órbita alta / HEO (>40000 km),2010s,11
+VLEO (<400 km),2020-2025,1049
+LEO baja (400-600 km),2020-2025,10185
+LEO media (600-1200 km),2020-2025,2381
+LEO alta (1200-2000 km),2020-2025,356
+MEO (2000-20000 km),2020-2025,115
+MEO alta / GNSS (20000-30000 km),2020-2025,64
+GEO aprox. (30000-40000 km),2020-2025,233
+Órbita alta / HEO (>40000 km),2020-2025,6

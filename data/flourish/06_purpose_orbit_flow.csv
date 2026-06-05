@@ -1,0 +1,22 @@
+﻿source,target,value
+Comunicaciones,LEO,3784
+Observación terrestre,LEO,619
+Comunicaciones,GEO,483
+Desarrollo tecnológico,LEO,180
+Navegación / posicionamiento,MEO,120
+Ciencia espacial,LEO,62
+Observación terrestre,GEO,48
+Navegación / posicionamiento,GEO,33
+Comunicaciones,MEO,20
+Desarrollo tecnológico,GEO,19
+Otros,LEO,18
+Ciencia espacial,Elliptical,18
+Observación terrestre,Elliptical,15
+Vigilancia / reconocimiento,LEO,15
+Comunicaciones,Elliptical,12
+Otros,GEO,5
+Desarrollo tecnológico,Elliptical,3
+Observación terrestre,MEO,2
+Navegación / posicionamiento,Elliptical,2
+Ciencia espacial,GEO,1
+Desarrollo tecnológico,MEO,1

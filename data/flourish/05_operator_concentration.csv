@@ -1,0 +1,32 @@
+﻿country,operator,n_satellites,share_pct
+USA,SpaceX,2894,53.004
+United Kingdom,OneWeb Satellites,589,10.788
+China,Chinese Ministry of National Defense,142,2.601
+Russia,Ministry of Defense,96,1.758
+USA,"Iridium Communications, Inc.",75,1.374
+USA,National Reconnaissance Office (NRO),46,0.842
+China,China Academy of Space Technology (CAST),44,0.806
+India,Indian Space Research Organization (ISRO),41,0.751
+China,Chang Guang Satellite Technology Co. Ltd.,40,0.733
+USA,Spacex,40,0.733
+ESA,European Space Agency (ESA),36,0.659
+USA,DoD/US Air Force,35,0.641
+USA,ORBCOMM Inc.,35,0.641
+USA,Intelsat S.A.,35,0.641
+Luxembourg,SES S.A.,33,0.604
+USA,Globalstar,33,0.604
+Multinational,EUTELSAT S.A.,29,0.531
+USA,US Air Force,26,0.476
+USA,National Aeronautics and Space Administration (NASA),22,0.403
+United Kingdom,O3b Networks Ltd.,20,0.366
+China,China National Academy of Sciences (CNSAS),19,0.348
+Russia,Gonets Satcom,18,0.33
+China,China Satellite Communication Corp. (China Satcom),17,0.311
+USA,"Planet Labs, Inc.",16,0.293
+China,China Aerospace Science and Technology Corp. (CASC),15,0.275
+USA,Spire Global Inc.,15,0.275
+China,Shanghai Academy of Spaceflight Technology,15,0.275
+USA,National Reconnaissance Office (NRO)/US Air Force,14,0.256
+USA,HawkEye 360,14,0.256
+Russia,Russian Satellite Communications Company,14,0.256
+Otros,Otros operadores,992,18.168

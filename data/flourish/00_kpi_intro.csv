@@ -1,0 +1,5 @@
+﻿metric_id,label,value,unit,description
+total_objects,Objetos registrados,68590,objetos,Total de objetos orbitales registrados en SATCAT.
+objects_in_orbit,Objetos sin fecha de decaimiento,33576,objetos,Objetos que permanecen en órbita según la ausencia de fecha de decaimiento.
+payloads_in_orbit,Cargas útiles en órbita,18572,objetos,Satélites o cargas útiles sin fecha de decaimiento registrada.
+debris_in_orbit,Residuos en órbita,12541,objetos,Fragmentos o debris sin fecha de decaimiento registrada.

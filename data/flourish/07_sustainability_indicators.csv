@@ -1,0 +1,8 @@
+﻿metric_id,title,value,value_display,description_short,category,sort_order
+objects_in_orbit,Objetos en órbita,33576.0,33.576,Objetos catalogados sin fecha de decaimiento registrada.,Presión orbital,1
+payloads_in_orbit,Cargas útiles,18572.0,18.572,Satélites y cargas útiles que permanecen catalogados en órbita.,Uso orbital,2
+debris_and_rocket_bodies,Residuos y cohetes,14938.0,14.938,Debris y cuerpos de cohete sin fecha de decaimiento registrada.,Sostenibilidad,3
+leo_share,Peso de la órbita baja,83.36,"83,4%",Porcentaje de objetos en órbita con altitud media inferior a 2.000 km.,Concentración orbital,4
+commercial_payload_share,Peso comercial,81.7,"81,7%",Peso de los payloads comerciales dentro del subconjunto enriquecido.,Mercado espacial,5
+top10_operator_share,Top 10 operadores,73.68,"73,7%",Concentración de cargas útiles enriquecidas en los diez principales operadores.,Concentración,6
+recent_launches,Lanzamientos recientes,18466.0,18.466,Objetos catalogados lanzados entre 2020 y 2025.,Aceleración,7

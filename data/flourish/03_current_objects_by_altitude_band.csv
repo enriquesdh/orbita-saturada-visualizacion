@@ -1,0 +1,9 @@
+﻿altitude_band_order,altitude_band,n_objects,share_pct
+1,VLEO (<400 km),1449,4.4
+2,LEO baja (400-600 km),11923,36.17
+3,LEO media (600-1200 km),11225,34.06
+4,LEO alta (1200-2000 km),2880,8.74
+5,MEO (2000-20000 km),2490,7.55
+6,MEO alta / GNSS (20000-30000 km),1009,3.06
+7,GEO aprox. (30000-40000 km),1918,5.82
+8,Órbita alta / HEO (>40000 km),67,0.2
